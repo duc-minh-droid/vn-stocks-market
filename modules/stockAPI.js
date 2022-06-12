@@ -5,4 +5,4 @@ api_key.apiKey = "caitkgaad3i2a9kciing" // Replace this
 const finnhubClient = new finnhub.DefaultApi()
 
 
-console.log(finnhubClient)
+module.exports = finnhubClient
